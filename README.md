@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20There!%20👋&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=20)
 
-# 📊 [Your Full Name]
+# 📊 Bhavish Chhabra 
 
 ### 🔍 Aspiring Data Analyst | SQL | Python | Excel | Power BI
 
@@ -16,7 +16,7 @@
 
 ```python
 analyst = {
-    "name"       : "Your Name",
+    "name"       : "Bhavish Chhabra",
     "location"   : "India 🇮🇳",
     "skills"     : ["SQL", "Python", "Excel", "Power BI", "Tableau"],
     "goal"       : "Land a Data Analyst role at a top MNC",
@@ -29,7 +29,7 @@ analyst = {
 - 🎯 Goal: **Data Analyst at a top MNC company**
 - 📊 Love turning messy data into clean, actionable insights
 - 📈 Building real-world projects with real datasets
-- 📫 Reach me at: **[your.email@gmail.com]**
+- 📫 Reach me at: **bhavishchhabra@gmail.com**
 
 ---
 
@@ -57,9 +57,9 @@ analyst = {
 
 | # | Topic | Status |
 |---|-------|--------|
-| 01 | Excel — Basics to Advanced | ✅ Done |
+| 01 | Excel — Basics to Advanced | 🔄 In Progress |
 | 02 | SQL — Queries & Joins | ✅ Done |
-| 03 | Python for Data Analysis | 🔄 In Progress |
+| 03 | Python for Data Analysis | ✅ Done |
 | 04 | Pandas & NumPy | 🔄 In Progress |
 | 05 | Data Visualization (Matplotlib/Seaborn) | ⏳ Upcoming |
 | 06 | Power BI Dashboards | ⏳ Upcoming |
@@ -123,19 +123,18 @@ analyst = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavish-chhabra-08673a2b6)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavishchhabra6100@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/bhavishchhabra)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)
 </div>
 
 ---
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=bhavishchhabra6100&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer)
 
